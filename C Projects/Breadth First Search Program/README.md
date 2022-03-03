@@ -1,5 +1,5 @@
-# Vertices Program
-The purpose of this program is to find the shortest paths between pairs of vertices.
+# Breadth First Search Program
+The purpose of this program is to find the shortest paths between pairs of vertices using the Breadth First Algorithm.
 
 ## Files
 	List.h-  	This file is a header file for the List ADT. It is what is included in the main Graph.c and FindPath program.
