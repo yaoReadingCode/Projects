@@ -14,8 +14,8 @@ The purpose of this code is to implement sorting functions that are used through
         $ ./sorting -b will run the bubble sort.
         $ ./sorting -q will run the quick sort with a stack.
         $ ./sorting -Q will run the quick sort with a queue.
-	$ ./sorting -n will allow user to input number of elements to sort.
-	$ ./sorting -r will allow user to input random seed.
-	$ ./sorting -p will allow user to input number of elements to print.
-	$ ./sorting -h will print all options available.
+        $ ./sorting -n will allow user to input number of elements to sort.
+        $ ./sorting -r will allow user to input random seed.
+        $ ./sorting -p will allow user to input number of elements to print.
+        $ ./sorting -h will print all options available.
 
