@@ -1,4 +1,4 @@
-# Huffman Coding
+# Hamming Coding
 The purpose of this code is to implement a program that checks if there are errors within a communicated data. This is done by adding extra bits at the end the data bits. The extra data checks if there are any problems. We are implementing matrices to encode and decode data which will result in an error code that tells us if there is something wrong with the message.
 
 ## Build
